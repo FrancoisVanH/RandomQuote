@@ -1,5 +1,7 @@
 # RandomQuote
 
+The codepen [link](https://codepen.io/6rancois/pen/oNqrmqY)
+
 ## Prototype
 
 ### - Visual
@@ -10,6 +12,7 @@
 ### - Use
 
 Click on the button to generate a random quote.
+
 See [here](https://www.figma.com/proto/Hg9AmvYSESYzGws8egUmhl/RQG?node-id=5%3A41&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A14)
 
 ## Techno
