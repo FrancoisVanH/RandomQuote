@@ -1,6 +1,6 @@
 # RandomQuote
 
-The codepen [link](https://codepen.io/6rancois/pen/oNqrmqY)
+The codepen <a href="https://codepen.io/6rancois/pen/oNqrmqY" target="_blank">link</a>
 
 ## Prototype
 
